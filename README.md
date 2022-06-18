@@ -30,6 +30,11 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
+
+
+
+
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -41,6 +46,10 @@
 </a>
 </p>
 
+
+
+
+
 ### [Connect with me 💬](linkedin.com/in/parth-pandey-35681a231/) 
 <p align="center">
 <a href="linkedin.com/in/parth-pandey-35681a231/"><img src="https://img.shields.io/badge/-parth%20pandey-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
@@ -48,6 +57,11 @@
 <a href="https://twitter.com/Parth_Pandey_"><img src="https://img.shields.io/badge/-@Parth_Pandey_-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
 
+
+
+
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ParthPandey2611.ParthPandey2611)
+
 
 <p align="center">Show ❤️ by starring and forking repositories you find good! </p>
