@@ -8,11 +8,7 @@ Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Ass
  :e-mail: parthpandey2611@gmail.com\
 😄 Pronouns: Parth
 
-⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/ParthPandey2611">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ParthPandey2611&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+![Parth's github stats](https://github-readme-stats.vercel.app/api?username=ParthPandey2611&hide=issues&show_icons=true&theme=onedark)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ParthPandey2611.ParthPandey2611)
 
