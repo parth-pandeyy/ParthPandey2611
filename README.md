@@ -8,31 +8,6 @@ Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Ass
  :e-mail: parthpandey2611@gmail.com\
 😄 Pronouns: Parth
 
-
- 🛠 &nbsp;Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![SpringBoot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Sanity.io](https://img.shields.io/badge/-Sanity.io-05122A?style=flat&logo=sanity&logoColor=092E20)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
-
-
 ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -40,18 +15,9 @@ Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Ass
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ParthPandey2611&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   
   
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ParthPandey2611&layout=compact&langs_count=8&theme=algolia"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ParthPandey2611&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-
-[Connect with me 💬](linkedin.com/in/parth-pandey-35681a231/) 
-<p align="center">
-<a href="linkedin.com/in/parth-pandey-35681a231/"><img src="https://img.shields.io/badge/-parth%20pandey-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:parthpandey2611@gmail.com"><img src="https://img.shields.io/badge/-parthpandey2611@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://twitter.com/Parth_Pandey_"><img src="https://img.shields.io/badge/-@Parth_Pandey_-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
-</p>
-
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ParthPandey2611.ParthPandey2611)
 
